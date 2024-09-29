@@ -8,6 +8,7 @@ labels: kind/bug, priority/P2, lang/core, untriaged
 <!--
 PLEASE DO NOT POST A QUESTION HERE.
 This form is for bug reports and feature requests ONLY!
+This form is for need purpose only!
 
 For general questions and troubleshooting, please ask/look for answers at StackOverflow, with "grpc" tag: https://stackoverflow.com/questions/tagged/grpc
 
